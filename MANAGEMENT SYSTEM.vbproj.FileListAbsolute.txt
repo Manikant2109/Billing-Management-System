@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\bin\Debug\MANAGEMENT SYSTEM.exe.config
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\bin\Debug\MANAGEMENT SYSTEM.exe
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\bin\Debug\MANAGEMENT SYSTEM.pdb
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\bin\Debug\MANAGEMENT SYSTEM.xml
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form6.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.exe
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.xml
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT SYSTEM.pdb
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form2.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form3.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form5.resources
+C:\Users\Asus\source\repos\MANAGEMENT SYSTEM\MANAGEMENT SYSTEM\obj\Debug\MANAGEMENT_SYSTEM.Form4.resources
